@@ -1,0 +1,84 @@
+{
+  "shortDescription": "Test your knowledge about Arbitrum",
+  "questions": [
+    {
+      "question": "What is Arbitrum?",
+      "answers": ["L2", "L1", "DEX"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created Arbitrum?",
+      "answers": ["Offchain", "Vitalik", "Nakamoto"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "When was Arbitrum launched?",
+      "answers": ["2021", "2020", "2019"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Arbitrum's native token?",
+      "answers": ["ARB", "ETH", "BTC"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Arbitrum's goal?",
+      "answers": ["Scaling", "Trading", "Mining"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Arbitrum's rollup solution called?",
+      "answers": ["Optimis", "Optimism", "ZK"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Arbitrum One?",
+      "answers": ["Mainnet", "Testnet", "Sidechain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What language is used for smart contracts on Arbitrum?",
+      "answers": ["Rust", "Vyper", "Solidity"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Arbitrum's main benefit?",
+      "answers": ["Scalability", "Privacy", "Speed"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Arbitrum Nova?",
+      "answers": ["Sidechain", "Rollup", "Fork"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is the block time on Arbitrum?",
+      "answers": ["1m", "15s", "10m"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Nitro in Arbitrum?",
+      "answers": ["Upgrade", "Token", "DApp"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the purpose of Arbitrum Nitro?",
+      "answers": ["Upgrade", "Token", "Bridge"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "How does Arbitrum work?",
+      "answers": ["Rollup", "Fork", "Merge"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does Arbitrum optimize?",
+      "answers": ["Gas", "Price", "Token"],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "followButton": {
+    "text": "Follow Creator",
+    "link": "https://warpcast.com/jemboods"
+  }
+}
