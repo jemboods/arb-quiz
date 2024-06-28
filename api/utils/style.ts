@@ -16,7 +16,7 @@ export const cardStyle = {
 export const textStyle = {
   display: 'flex',
   color: 'white',
-  fontSize: 50,
+  fontSize: 30,
   fontStyle: 'normal',
   letterSpacing: '-0.025em',
   lineHeight: 1.4,
@@ -25,9 +25,9 @@ export const textStyle = {
   whiteSpace: 'pre-wrap',
 }
 
-export const BORDER_SIMPLE = '1em solid rgb(102,178,255)'
+export const BORDER_SIMPLE = '1em solid rgb(245, 106, 0)'
 export const BORDER_FAIL = '1em solid rgb(255,0,127)'
-export const BORDER_SUCCESS = '1em solid rgb(0,204,102)'
+export const BORDER_SUCCESS = '1em solid rgb(245, 106, 0)'
 
 export const { Box, Heading, Text, VStack, vars } = createSystem({
   colors: {
